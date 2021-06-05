@@ -1,2 +1,2 @@
 # Snake_Game
-Build this snake game using JavaScript and HTML
+Built this snake game using JavaScript and HTML
